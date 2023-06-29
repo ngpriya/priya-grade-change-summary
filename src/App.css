@@ -407,3 +407,7 @@ mark {
 .underline {
   text-decoration: underline;
 }
+
+.single_advisor_profile .single_advisor_details_info img {
+  width: 160px;
+}
