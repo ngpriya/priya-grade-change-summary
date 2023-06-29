@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/priya-grade-change-summary/static/css/main.9432e113.css",
-    "main.js": "/priya-grade-change-summary/static/js/main.438c45cb.js",
+    "main.css": "/priya-grade-change-summary/static/css/main.566726d5.css",
+    "main.js": "/priya-grade-change-summary/static/js/main.03827897.js",
     "static/js/787.22ec8107.chunk.js": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js",
     "static/media/hari.png": "/priya-grade-change-summary/static/media/hari.014cd0d77e5b9abc543f.png",
     "static/media/kavitha.png": "/priya-grade-change-summary/static/media/kavitha.77e9065178c47ec91c8d.png",
     "static/media/mags.png": "/priya-grade-change-summary/static/media/mags.ecadf47b57c74dc6fdb9.png",
     "static/media/PriyaProfileCard.jpeg": "/priya-grade-change-summary/static/media/PriyaProfileCard.a10aa2e44bde0786c0c6.jpeg",
+    "static/media/thoughtworks_logo.png": "/priya-grade-change-summary/static/media/thoughtworks_logo.6e26fb69d94705dbc37d.png",
     "static/media/karan.png": "/priya-grade-change-summary/static/media/karan.140fa59a245010de51e0.png",
     "static/media/amey.png": "/priya-grade-change-summary/static/media/amey.9a7e2ed83e2c7bb522c7.png",
     "static/media/raghu.png": "/priya-grade-change-summary/static/media/raghu.4febd5f9e995518d542c.png",
@@ -18,12 +19,12 @@
     "static/media/raghav.png": "/priya-grade-change-summary/static/media/raghav.a2b590e0e3956ff99deb.png",
     "static/media/ram.png": "/priya-grade-change-summary/static/media/ram.ed289cf24410be8f64c8.png",
     "index.html": "/priya-grade-change-summary/index.html",
-    "main.9432e113.css.map": "/priya-grade-change-summary/static/css/main.9432e113.css.map",
-    "main.438c45cb.js.map": "/priya-grade-change-summary/static/js/main.438c45cb.js.map",
+    "main.566726d5.css.map": "/priya-grade-change-summary/static/css/main.566726d5.css.map",
+    "main.03827897.js.map": "/priya-grade-change-summary/static/js/main.03827897.js.map",
     "787.22ec8107.chunk.js.map": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9432e113.css",
-    "static/js/main.438c45cb.js"
+    "static/css/main.566726d5.css",
+    "static/js/main.03827897.js"
   ]
 }
